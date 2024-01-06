@@ -32,7 +32,7 @@
                     </select>
                     
                 </div>
-                <button class="btn btn-success">Tampilkan</button>
+                <button class="btn btn-success"><i class="fa-regular fa-file"></i>  Tampilkan</button>
             </form>
         </div>
     </div>

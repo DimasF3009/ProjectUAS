@@ -50,12 +50,12 @@
                                 <td>
                                     <a href="<?= base_url('warga/edit/'.$isi['id']);?>" 
                                     class="btn btn-success">
-                                    <i class="fa-regular fa-pen-to-square"></i></a>
+                                    <i class="fa-regular fa-pen-to-square"></i>  Edit</a>
                                     <a href="<?= base_url('warga/hapus/'.$isi['id']);?>" 
                                     onclick="javascript:return confirm('Apakah ingin menghapus data ini ?')"
                                     
                                     class="btn btn-danger">
-                                    <i class="fa-solid fa-trash"></i></a>
+                                    <i class="fa-solid fa-trash"></i>  Hapus</a>
                                     
 
                                 </td>
