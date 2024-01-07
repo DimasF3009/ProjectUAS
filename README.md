@@ -8,3 +8,15 @@
 - Tampilan laporan
   
 ![image](https://github.com/DimasF3009/ProjectUAS/assets/115687740/96658050-baa1-4b9c-a00e-69e9785d27f6)
+
+
+
+
+## Struktur Database
+
+- Database iuran
+  
+![image](https://github.com/DimasF3009/ProjectUAS/assets/115687740/c8693fce-d65c-4f07-a483-e5ddcd060098)
+- Database warga
+  
+![image](https://github.com/DimasF3009/ProjectUAS/assets/115687740/742c3317-b258-443c-9c85-bfe3242a0874)
