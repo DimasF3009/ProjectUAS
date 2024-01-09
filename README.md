@@ -10,8 +10,9 @@ Anggota Kelompok
 | ---------- |
 | `https://iurankasrtkelompok11.000webhostapp.com/` |
 # Demo Aplikasi
-| Link priview vidio|
-|https://youtu.be/UwQ3ipyXAKY?feature=shared|
+| Link priview vidio |
+| ---------- |
+|`https://youtu.be/UwQ3ipyXAKY?feature=shared`|
 
 ## Tampilan web
 - Tampilan warga
